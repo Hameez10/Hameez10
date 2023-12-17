@@ -19,7 +19,7 @@ I am Hameez Iqbal, a Co-op Computer Science student at **Toronto Metropolitan Un
 
 🔴🟠 I was a Software Engineer Intern at [Mastercard](https://www.mastercard.ca/en-ca.html) 's Cyber & Intelligence unit at [Ethoca](https://www.ethoca.com) during the summer of 2023 where I provided merchants and issuers collaboratively based solutions to combat fraud and reduce charge back. I used Java, Spring, Angular, and Azure working on both front-end and back-end technologies for the product Consumer Clarity. I collaborated with my peers utilizing Jira, Confluence, Teams, and GitLab. I was a part of the [Digital Main Street](https://digitalmainstreet.ca) and Mastercard's inagural class of [Small Business Cyber and Intelligence Fellowships](https://digitalmainstreet.ca/dms-mastercard-fellowship/). I was featured numerous times on the [social media](https://www.linkedin.com/feed/update/urn:li:activity:7089355806915133441?utm_source=share&utm_medium=member_desktop) and website.
 
-I was a member of the Data Team for [M.P.P.(Member of Provinical Parliament)](https://www.ola.org/en/members/all/ted-hsu) [Ted Hsu](https://www.tedhsu.ca)'s bid to be the leader of the [Ontario Liberal Party](https://ontarioliberal.ca). 
+I was a member of the Data Team for [M.P.P.(Member of Provinical Parliament)](https://www.ola.org/en/members/all/ted-hsu) [Ted Hsu](https://www.tedhsu.ca)'s bid to be the leader of the [Ontario Liberal Party](https://ontarioliberal.ca) in fall 2023.
 
 🌱 I’m currently learning Discrete Structures, Comparative Programming Langauges, and Operating Systems. 
 
