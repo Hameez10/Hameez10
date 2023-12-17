@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello everyone, welcome to my GitHub!
+
+I am Hameez Iqbal, a computer science student at Toronto Metropolitan University. Check out my [site](https://www.hameeziqbal.ca) or my [LinkedIn](https://www.linkedin.com/in/hameez-iqbal/)
+
+I was an intern at Mastercard's Cyber & Intelligence unit at Ethoca during the summer of 2023 where I provided merchants and issuers collaboratively based solutions to combat fraud and reduce charge back. I used Java, Spring, Angular, and Azure working on both front-end and back-end technologies for the product Consumer Clarity. I collaborated with my peers utilizing Jira, Confluence, Teams, and GitLab.
