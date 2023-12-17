@@ -21,7 +21,8 @@ I am Hameez Iqbal, a Co-op Computer Science student at **Toronto Metropolitan Un
 
 I was a member of the Data Team for [M.P.P.(Member of Provinical Parliament)](https://www.ola.org/en/members/all/ted-hsu) [Ted Hsu](https://www.tedhsu.ca)'s bid to be the leader of the [Ontario Liberal Party](https://ontarioliberal.ca). 
 
-🔭 I’m currently working on ...
-🌱 I’m currently learning Discrete Strcutures, Comparative Programming Langauges, and Operating Systems. 
+🌱 I’m currently learning Discrete Structures, Comparative Programming Langauges, and Operating Systems. 
+
+🤔 I am curerently exploring how computer science can be applied in the political landscape.
 
 📫 Check out my [site](https://www.hameeziqbal.ca) or my [LinkedIn](https://www.linkedin.com/in/hameez-iqbal/). You can also directly email me at hameezwork@gmail.com
