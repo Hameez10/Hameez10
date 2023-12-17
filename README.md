@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Hameez10/Hameez10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello everyone, welcome to my GitHub!
+#Hello everyone, welcome to my GitHub!
 
 I am Hameez Iqbal, a computer science student at Toronto Metropolitan University. Check out my [site](https://www.hameeziqbal.ca) or my [LinkedIn](https://www.linkedin.com/in/hameez-iqbal/)
 
