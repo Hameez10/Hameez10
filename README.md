@@ -25,7 +25,7 @@ I was a member of the Data Team for [M.P.P.(Member of Provinical Parliament)](ht
 
 🤔 I am curerently exploring how computer science can be applied in the political landscape.
 
-👨🏾‍💻 I am open to do Co-op/Internship placements during: Summer 2024, Fall 2024, Summer 2025, Winter 2026, and Summer 2026. I have an expected 🎓grduation date of spring 2027.
+👨🏾‍💻 I am open to do Co-op/Internship placements during: Summer 2024, Fall 2024, Summer 2025, Winter 2026, and Summer 2026. These dates are not set-in-stone as my co-op program is very flexible. I have an expected 🎓graduation date of spring 2027.
 
 📫 Check out my [site](https://www.hameeziqbal.ca) or my [LinkedIn](https://www.linkedin.com/in/hameez-iqbal/). You can also directly email me at hameezwork@gmail.com
 
