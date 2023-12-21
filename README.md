@@ -32,13 +32,13 @@ I was a member of the Data Team for [M.P.P.(Member of Provinical Parliament)](ht
 • Computer Science I (Python)
 
 
-• Computer Scinece II (Java)
+• Computer Science II (Java)
 
 
-• Computer Organization I (Combinational Circuits, Sequiential Circuits, Decoders/Encoders, Multiplexers, Flip-Flops, Counters, Registers, and Address Technique)
+• Computer Organization I (Combinational Circuits, Sequential Circuits, Decoders/Encoders, Multiplexers, Flip-Flops, Counters, Registers, and Address Technique)
 
 
-• Computer Orgnaization II (CPU Architecture, Assembly code, and Machine code)
+• Computer Organization II (CPU Architecture, Assembly code, and Machine code)
 
 
 • Data Structures (Lisp)
