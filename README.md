@@ -44,7 +44,7 @@ I was a member of the Data Team for [M.P.P.(Member of Provinical Parliament)](ht
 • Data Structures (Lisp)
 
 
-• Introudction to Unix, C, and C++
+• Introduction to Unix, C, and C++
 
 
 • Introduction to Cyber-Security
