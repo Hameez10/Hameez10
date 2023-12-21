@@ -21,11 +21,27 @@ I am Hameez Iqbal, a **Co-op Computer Science** student at **Toronto Metropolita
 
 I was a member of the Data Team for [M.P.P.(Member of Provinical Parliament)](https://www.ola.org/en/members/all/ted-hsu) [Ted Hsu](https://www.tedhsu.ca)'s bid to be the leader of the [Ontario Liberal Party](https://ontarioliberal.ca) in fall 2023.
 
-🌱 I’m currently learning Discrete Structures, Comparative Programming Langauges, and Operating Systems. 
+🌱 I’m currently learning Discrete Structures, Comparative Programming Langauges, Operating Systems, and Probability and Statistics. 
 
 🤔 I am curerently exploring how computer science can be applied in the political landscape.
 
 👨🏾‍💻 I am open to do Co-op/Internship placements during: Summer 2024, Fall 2024, Summer 2025, Winter 2026, and Summer 2026. These dates are not set-in-stone as my co-op program is very flexible. I have an expected 🎓graduation date of spring 2027.
+
+## Relevant Coursework📚 :
+### Computer Science
+• Computer Science I (Python)
+• Computer Scinece II (Java)
+• Computer Organization I (Combinational Circuits, Sequiential Circuits, Decoders/Encoders, Multiplexers, Flip-Flops, Counters, Registers, and Address Technique)
+• Computer Orgnaization II (CPU Architecture, Assembly code, and Machine code)
+• Data Structures (Lisp)
+• Introudction to Unix, C, and C++
+• Introduction to Cyber-Security
+
+### Mathematics
+• Discrete Math
+• Calculas and Computational Methods I
+• Linear Algebra
+
 
 📫 Check out my [site](https://www.hameeziqbal.ca) or my [LinkedIn](https://www.linkedin.com/in/hameez-iqbal/). You can also directly email me at hameezwork@gmail.com
 
