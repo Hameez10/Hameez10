@@ -57,7 +57,7 @@ I was a member of the Data Team for [M.P.P.(Member of Provinical Parliament)](ht
 • Discrete Math
 
 
-• Calculas and Computational Methods I
+• Calculus and Computational Methods I
 
 
 • Linear Algebra
