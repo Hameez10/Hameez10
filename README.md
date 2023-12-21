@@ -65,4 +65,4 @@ I was a member of the Data Team for [M.P.P.(Member of Provinical Parliament)](ht
 
 📫 Check out my [site](https://www.hameeziqbal.ca) or my [LinkedIn](https://www.linkedin.com/in/hameez-iqbal/). You can also directly email me at hameezwork@gmail.com
 
-Thank you for visiting! Feel free to explore my projects and reach out for any collaboration or discussion.
+Thank you for visiting! Feel free to explore my repositories and reach out for any collaboration or discussion.
