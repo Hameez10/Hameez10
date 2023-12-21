@@ -33,6 +33,8 @@ I was a member of the Data Team for [M.P.P.(Member of Provinical Parliament)](ht
 
 
 • Computer Scinece II (Java)
+
+
 • Computer Organization I (Combinational Circuits, Sequiential Circuits, Decoders/Encoders, Multiplexers, Flip-Flops, Counters, Registers, and Address Technique)
 • Computer Orgnaization II (CPU Architecture, Assembly code, and Machine code)
 • Data Structures (Lisp)
