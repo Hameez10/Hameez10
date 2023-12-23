@@ -1,3 +1,9 @@
+<p align="center">
+	<a href="https://twitter.com/IqbalHameez"><img src="imgs/twitter.png" alt="Twitter"></a>
+	<a href="https://github.com/Hameez10"><img src="imgs/github.svg" alt="GitHub"></a>
+	<a href="https://www.linkedin.com/in/hameez-iqbal/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+</p>
+
 <!--
 **Hameez10/Hameez10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
