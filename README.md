@@ -1,9 +1,3 @@
-<p align="center">
-	<a href="https://twitter.com/IqbalHameez"><img src="images/x.svg" width="35" alt="X (formerly Twitter)"></a>
-	<a href="https://www.instagram.com/hameezii/?next=%2F"><img src="images/Instagram_Glyph_Gradient.svg" width="42" alt="LinkedIn"></a>
-	<a href="https://www.linkedin.com/in/hameez-iqbal/"><img src="images/LI-In-Bug.svg" width="49" alt="LinkedIn"></a>
-</p>
-
 <!--
 **Hameez10/Hameez10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,6 +14,13 @@ Here are some ideas to get you started:
 -->
 
 # Hello everyone, welcome to my GitHub!
+
+<p align="center">
+	<a href="https://twitter.com/IqbalHameez"><img src="images/x.svg" width="35" alt="X (formerly Twitter)"></a>
+	<a href="https://www.instagram.com/hameezii/?next=%2F"><img src="images/Instagram_Glyph_Gradient.svg" width="42" alt="LinkedIn"></a>
+	<a href="https://www.linkedin.com/in/hameez-iqbal/"><img src="images/LI-In-Bug.svg" width="49" alt="LinkedIn"></a>
+</p>
+
 
 I am Hameez Iqbal, a **Co-op Computer Science** student at **Toronto Metropolitan University**, pursuing a minor in **Cyber Studies** and a concentration in **Software Engineering**.
 
