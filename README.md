@@ -1,5 +1,7 @@
 <p align="center">
-	<a href="https://twitter.com/IqbalHameez"><img src="images/logo-black.png | width=100" alt="Twitter"></a>
+	<a href="https://twitter.com/IqbalHameez"><img src="images/logo-black.png" alt="Twitter"></a>
+	<a href="https://twitter.com/IqbalHameez"><img src="images/logo.svg" alt="Twitter"></a>
+	<a href="https://twitter.com/IqbalHameez"><img src="images/logo-white.png" alt="Twitter"></a>
 	<a href="https://github.com/Hameez10"><img src="imgs/github.svg" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/hameez-iqbal/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
 </p>
