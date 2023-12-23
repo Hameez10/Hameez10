@@ -82,4 +82,4 @@ Thank you for visiting! Feel free to explore my repositories and reach out for a
 Images
 https://github.com/Hameez10/Hameez10/blob/9ba81b3ae412a316363689244e49a2d69dd9b477/images/ma_symbol_opt_73_1x.png
 -->
-[MastercardLogo]: src = "images/MastercardLogo.png"
+[MastercardLogo]: https://github.com/Hameez10/Hameez10/blob/9ba81b3ae412a316363689244e49a2d69dd9b477/images/ma_symbol_opt_73_1x.png
