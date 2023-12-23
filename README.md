@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 I am Hameez Iqbal, a **Co-op Computer Science** student at **Toronto Metropolitan University**, pursuing a minor in **Cyber Studies** and a concentration in **Software Engineering**.
 
-![GitHub Stats](https://github-readme-stats.vercel.api username=Hameez10 &theme=radical)
 
 ![alt text][MastercardLogo]
 
