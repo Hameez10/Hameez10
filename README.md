@@ -1,7 +1,7 @@
 <p align="center">
 	<a href=="https://twitter.com/IqbalHameez"><img src="images/x.svg" width="20" alt="Twitter"></a>
 	<a href="https://github.com/Hameez10"><img src="imgs/github.svg" alt="GitHub"></a>
-	<a href="https://www.linkedin.com/in/hameez-iqbal/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+	<a href="https://www.linkedin.com/in/hameez-iqbal/"><img src="images/Instagram_Glyph_Gradient.svg" alt="LinkedIn"></a>
 </p>
 
 <!--
