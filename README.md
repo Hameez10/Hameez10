@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://twitter.com/IqbalHameez"><img src="images/logo-white.png" alt="Twitter"></a>
+	<img title="AWS" alt="AWS" src=="https://twitter.com/IqbalHameez"><img src="images/x.svg" width="60" alt="Twitter"></a>
 	<a href="https://github.com/Hameez10"><img src="imgs/github.svg" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/hameez-iqbal/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
 </p>
