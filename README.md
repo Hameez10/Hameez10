@@ -59,7 +59,7 @@ I was a member of the Data Team for [M.P.P.(Member of Provinical Parliament)](ht
 
 • Introduction to Cyber-Security
 
-
+Skilled in: Java (Angular, Spring, Bootstrap), Python (Pandas, NumPy, Matplotlib), Lisp, C 
 
 ### Mathematics
 
