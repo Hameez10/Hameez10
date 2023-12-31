@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 
 # Hello everyone, welcome to my GitHub!
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="hameez-iqbal" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/hameez-iqbal?trk=profile-badge">Hameez Iqbal</a></div>
+              
 
 <p align="center">
 	<a href="https://twitter.com/IqbalHameez"><img src="images/x.svg" width="35" alt="X (formerly Twitter)"></a>
