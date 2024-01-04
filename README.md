@@ -34,7 +34,7 @@ I was a member of the Data Team for [M.P.P.(Member of Provinical Parliament)](ht
 
 🌱 I’m currently learning Discrete Structures, Comparative Programming Langauges, Operating Systems, and Probability and Statistics. 
 
-🤔 I am curerently exploring how computer science can be applied in the political landscape.
+🤔 I am currently exploring how computer science can be applied in the political landscape.
 
 👨🏾‍💻 I am open to do Co-op/Internship placements during: Summer 2024, Fall 2024, Summer 2025, Winter 2026, and Summer 2026. These dates are not set-in-stone as my co-op program is very flexible. I have an expected 🎓graduation date of spring 2027.
 
