@@ -76,6 +76,9 @@ Technologies: Google Suite/Workspace, Microsoft Office, GitLab, Jira, Confluence
 • Linear Algebra
 
 
+• Probability and Statistics
+
+
 📫 Check out my [site](https://www.hameeziqbal.ca) or my [LinkedIn](https://www.linkedin.com/in/hameez-iqbal/). You can also directly email me at hameezwork@gmail.com
 
 Thank you for visiting! Feel free to explore my repositories and reach out for any collaboration or discussion.
