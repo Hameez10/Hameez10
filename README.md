@@ -32,7 +32,7 @@ I am Hameez Iqbal, a **Co-op Computer Science** student at **Toronto Metropolita
 
 I was a member of the Data Team for [MPP (Member of Provinical Parliament)](https://www.ola.org/en/members/all/ted-hsu) [Ted Hsu](https://www.tedhsu.ca)'s bid to be the leader of the [Ontario Liberal Party](https://ontarioliberal.ca) in fall 2023.
 
-🌱 I’m currently learning Evidence-Based Security and Business Law
+🌱 I’m currently on a Co-op term
 
 🤔 I am currently exploring how computer science can be applied in the political landscape.
 
@@ -58,9 +58,6 @@ I was a member of the Data Team for [MPP (Member of Provinical Parliament)](http
 • Introduction to Unix, C, and C++
 
 
-• Introduction to Cyber-Security
-
-
 • Discrete Structures
 
 
@@ -77,6 +74,12 @@ Skilled in: Java (Angular, Spring, Bootstrap), Python (Pandas, NumPy, Matplotlib
 
 Technologies: Google Suite/Workspace, Microsoft Office, GitLab, Jira, Confluence, Azure, Nexus, Jenkins
 
+### Cybersecurity
+• Introduction to Cyber-Security
+
+
+• Evidence-Based Security
+
 ### Mathematics
 
 
@@ -90,6 +93,16 @@ Technologies: Google Suite/Workspace, Microsoft Office, GitLab, Jira, Confluence
 
 
 • Probability and Statistics
+
+### Entrepreneurship
+
+• DMZ Startup Certified
+
+
+• DMZ Launchpad
+
+
+• Business Law
 
 
 📫 Check out my [site](https://www.hameeziqbal.ca) or my [LinkedIn](https://www.linkedin.com/in/hameez-iqbal/). You can also directly email me at hameezwork@gmail.com
