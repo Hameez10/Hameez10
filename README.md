@@ -86,6 +86,8 @@ Technologies: Google Suite/Workspace, Microsoft Office, GitLab, Jira, Confluence
 
 • Evidence-Based Security
 
+Technologies: Any.run, Wireshark, Snort, Hashcat, Virtual Machines, John the Ripper, Splunk
+
 ### Mathematics
 
 
