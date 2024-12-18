@@ -115,19 +115,19 @@ Technologies: Any.run, Wireshark, Snort, Hashcat, Virtual Machines, John the Rip
 
 ### Upcoming Courses
 
-• (Database Systems)[https://www.torontomu.ca/calendar/2024-2025/courses/computer-science/CPS/510/]
+• [Database Systems](https://www.torontomu.ca/calendar/2024-2025/courses/computer-science/CPS/510/)
 
 
-• (Computer Security)[https://www.torontomu.ca/calendar/2024-2025/courses/computer-science/CPS/633/]
+• [Computer Security](https://www.torontomu.ca/calendar/2024-2025/courses/computer-science/CPS/633/)
 
 
-• (Artifical Intelligence)[https://www.torontomu.ca/calendar/2024-2025/courses/computer-science/CPS/721/]
+• [Artifical Intelligence](https://www.torontomu.ca/calendar/2024-2025/courses/computer-science/CPS/721/)
 
 
-• (Algorithms)[https://www.torontomu.ca/calendar/2024-2025/courses/computer-science/CPS/616/]
+• [Algorithms](https://www.torontomu.ca/calendar/2024-2025/courses/computer-science/CPS/616/)
 
 
-• (Computer Networks)[https://www.torontomu.ca/calendar/2024-2025/courses/computer-science/CPS/706/]
+• [Computer Networks](https://www.torontomu.ca/calendar/2024-2025/courses/computer-science/CPS/706/)
 
 
 📫 Check out my [site](https://www.hameeziqbal.ca) or my [LinkedIn](https://www.linkedin.com/in/hameez-iqbal/). You can also directly email me at hameezwork@gmail.com
