@@ -43,19 +43,19 @@ I was a member of the Data Team for [MPP (Member of Provinical Parliament)](http
 • [Computer Science I (Python)](https://www.torontomu.ca/calendar/2024-2025/courses/computer-science/CPS/109/)
 
 
-• Computer Science II (Java)
+• [Computer Science II (Java)](https://www.torontomu.ca/calendar/2024-2025/courses/computer-science/CPS/209/)
 
 
-• Computer Organization I (Combinational Circuits, Sequential Circuits, Decoders/Encoders, Multiplexers, Flip-Flops, Counters, Registers, and Address Technique)
+• [Computer Organization I (Combinational Circuits, Sequential Circuits, Decoders/Encoders, Multiplexers, Flip-Flops, Counters, Registers, and Address Technique)](https://www.torontomu.ca/calendar/2024-2025/courses/computer-science/CPS/213/)
 
 
-• Computer Organization II (CPU Architecture, Assembly code, and Machine code)
+• [Computer Organization II (CPU Architecture, Assembly code, and Machine code)](https://www.torontomu.ca/calendar/2024-2025/courses/computer-science/CPS/310/)
 
 
-• Data Structures (Lisp)
+• [Data Structures (Lisp)](https://www.torontomu.ca/calendar/2024-2025/courses/computer-science/CPS/305/)
 
 
-• Introduction to Unix, C, and C++
+• [Introduction to Unix, C, and C++](https://www.torontomu.ca/calendar/2024-2025/courses/computer-science/CPS/393/)
 
 
 • Discrete Structures
@@ -68,6 +68,10 @@ I was a member of the Data Team for [MPP (Member of Provinical Parliament)](http
 
 
 • Introduction to Operating Systems
+
+• [Social Issues, Ethics and Professionalism](https://www.torontomu.ca/calendar/2024-2025/courses/computer-science/CPS/412/)
+
+• [Communication in the Computer Industry](https://www.torontomu.ca/calendar/2024-2025/courses/communication/CMN/300/)
 
 
 Skilled in: Java (Angular, Spring, Bootstrap), Python (Pandas, NumPy, Matplotlib, Jupyter Notebook), Lisp, C, Smalltalk, Elixir, Haskell, Rust
@@ -83,10 +87,10 @@ Technologies: Google Suite/Workspace, Microsoft Office, GitLab, Jira, Confluence
 ### Mathematics
 
 
-• Discrete Math
+• [Discrete Math](https://www.torontomu.ca/calendar/2024-2025/courses/mathematics/MTH/110/)
 
 
-• Calculus and Computational Methods I
+• [Calculus and Computational Methods I](https://www.torontomu.ca/calendar/2024-2025/courses/mathematics/MTH/207/)
 
 
 • Linear Algebra
