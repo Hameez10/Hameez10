@@ -58,18 +58,20 @@ I was a member of the Data Team for [MPP (Member of Provinical Parliament)](http
 • [Introduction to Unix, C, and C++](https://www.torontomu.ca/calendar/2024-2025/courses/computer-science/CPS/393/)
 
 
-• Discrete Structures
+• [Discrete Structures](https://www.torontomu.ca/calendar/2024-2025/courses/computer-science/CPS/420/)
 
 
-• Comparative Programming Langauges (Smalltalk, Elixir, Haskell, Rust)
+• [Comparative Programming Langauges (Smalltalk, Elixir, Haskell, Rust)](https://www.torontomu.ca/calendar/2024-2025/courses/computer-science/CPS/506/)
 
 
-• Introduction to Software Engineering 
+• [Introduction to Software Engineering](https://www.torontomu.ca/calendar/2024-2025/courses/computer-science/CPS/406/)
 
 
-• Introduction to Operating Systems
+• [Introduction to Operating Systems](https://www.torontomu.ca/calendar/2024-2025/courses/computer-science/CPS/590/)
+
 
 • [Social Issues, Ethics and Professionalism](https://www.torontomu.ca/calendar/2024-2025/courses/computer-science/CPS/412/)
+
 
 • [Communication in the Computer Industry](https://www.torontomu.ca/calendar/2024-2025/courses/communication/CMN/300/)
 
@@ -93,10 +95,10 @@ Technologies: Google Suite/Workspace, Microsoft Office, GitLab, Jira, Confluence
 • [Calculus and Computational Methods I](https://www.torontomu.ca/calendar/2024-2025/courses/mathematics/MTH/207/)
 
 
-• Linear Algebra
+• [Linear Algebra](https://www.torontomu.ca/calendar/2024-2025/courses/mathematics/MTH/108/)
 
 
-• Probability and Statistics
+• [Probability and Statistics](https://www.torontomu.ca/calendar/2024-2025/courses/mathematics/MTH/380/)
 
 ### Entrepreneurship
 
