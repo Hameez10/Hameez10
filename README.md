@@ -40,7 +40,7 @@ I was a member of the Data Team for [MPP (Member of Provinical Parliament)](http
 
 ## Relevant Coursework📚 :
 ### Computer Science
-• Computer Science I (Python)
+• [Computer Science I (Python)] (https://www.torontomu.ca/calendar/2024-2025/courses/computer-science/CPS/109/)
 
 
 • Computer Science II (Java)
