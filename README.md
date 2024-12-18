@@ -104,13 +104,13 @@ Technologies: Any.run, Wireshark, Snort, Hashcat, Virtual Machines, John the Rip
 
 ### Entrepreneurship
 
-• DMZ Startup Certified
+• [DMZ Startup Certified](https://dmz.torontomu.ca/wp-content/uploads/2024/10/Startup-Certified-Package-W2024.pdf)
 
 
-• DMZ Launchpad
+• [DMZ Launchpad](https://www.dmzlaunchpad.ca/courses/desjardins)
 
 
-• Business Law
+• [Business Law](https://www.torontomu.ca/calendar/2024-2025/courses/law/LAW/122/)
 
 
 ### Upcoming Courses
