@@ -94,7 +94,7 @@ Technologies: Any.run, Wireshark, Snort, Hashcat, Virtual Machines, John the Rip
 • [Discrete Math](https://www.torontomu.ca/calendar/2024-2025/courses/mathematics/MTH/110/)
 
 
-• [Calculus and Computational Methods I](https://www.torontomu.ca/calendar/2024-2025/courses/mathematics/MTH/207/)
+• [Calculus and Computational Methods](https://www.torontomu.ca/calendar/2024-2025/courses/mathematics/MTH/207/)
 
 
 • [Linear Algebra](https://www.torontomu.ca/calendar/2024-2025/courses/mathematics/MTH/108/)
@@ -111,6 +111,21 @@ Technologies: Any.run, Wireshark, Snort, Hashcat, Virtual Machines, John the Rip
 
 
 • Business Law
+
+
+### Upcoming Courses
+• Database Systems
+
+
+• Computer Security
+
+
+• Artifical Intelligence
+
+
+• Algorithms
+
+• Computer Networks
 
 
 📫 Check out my [site](https://www.hameeziqbal.ca) or my [LinkedIn](https://www.linkedin.com/in/hameez-iqbal/). You can also directly email me at hameezwork@gmail.com
