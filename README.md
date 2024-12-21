@@ -25,6 +25,14 @@ Here are some ideas to get you started:
 
 I am Hameez Iqbal, a **Co-op Computer Science** student at **Toronto Metropolitan University**, pursuing a minor in **Cyber Studies** and a concentration in **Software Engineering**.
 
+🌱 I’m currently on a Co-op term
+
+🤔 I am currently exploring how computer science can be applied in the political landscape.
+
+👨🏾‍💻 I am open to Co-op/Internship placements with terms ranging from 4 to 16 months. I am interested in areas including, but not limited to, Software Engineering (with a preference for backend), Product Management, and Project Management.
+
+## Career Summary💻 :
+
 I am currently a Software Engineering Intern at Crewscope, where I work on Python backend development and AI integration to enhance a software platform aimed at improving worker productivity and retention in construction and industrial settings. My role involves designing and implementing backend services, building microservices-based enterprise applications, and integrating AI workflows using APIs. I also contribute to QA processes, automated testing pipelines, and integration with third-party services, as well as assisting with cloud deployment and DevOps tasks. This position allows me to tackle technical challenges, write sustainable code, and thrive in a dynamic startup environment.
 
 ![alt text][UnityLogo]
