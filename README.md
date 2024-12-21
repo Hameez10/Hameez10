@@ -81,10 +81,10 @@ Skilled in: Java (Angular, Spring, Bootstrap), Python (Pandas, NumPy, Matplotlib
 Technologies: Google Suite/Workspace, Microsoft Office, GitLab, Jira, Confluence, Azure, Nexus, Jenkins
 
 ### Cybersecurity
-• Introduction to Cyber-Security
+• [Introduction to Cyber-Security](https://www.torontomu.ca/calendar/2024-2025/courses/computer-science/CPS/571/)
 
 
-• Evidence-Based Security
+• [Evidence-Based Security](https://continuing.torontomu.ca/search/publicCourseSearchDetails.do?method=load&courseId=14310185)
 
 Technologies: Any.run, Wireshark, Snort, Hashcat, Virtual Machines, John the Ripper, Splunk
 
