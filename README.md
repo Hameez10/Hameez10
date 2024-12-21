@@ -32,7 +32,7 @@ I am currently a Software Engineering Intern at Crewscope, where I work on Pytho
 During my time at Unity Health Toronto, I worked at St. Michael’s Hospital on a project focused on modernizing the healthcare system through the implementation of a new Electronic Patient Record (EPR) system. My responsibilities included implementing the system on various devices, testing, troubleshooting, and performing minor repairs. I was stationed in the Operating Room, where I provided direct support to nurses, anesthesiologists, surgeons, residents, fellows, clerks, and other staff as an expert on the new software. This high-pressure, fast-paced role involved assisting users with varying levels of technical expertise, ensuring smooth operations and minimal disruptions. Additionally, I contributed to end-user training sessions and collaborated on device setup and maintenance, further developing my technical, problem-solving, and communication skills in a critical healthcare environment.
 
 
-![alt text][MastercardLogo]
+![alt text][MastercardLogoLarge]
 
 🔴🟠 I was a Software Engineer Intern at **[Mastercard](https://www.mastercard.ca/en-ca.html)** 's Cyber & Intelligence unit at [Ethoca](https://www.ethoca.com) during the summer of 2023 where I provided merchants and issuers collaboratively based solutions to combat fraud and reduce charge back. I used Java, Spring, Angular, and Azure working on both front-end and back-end technologies for the product Consumer Clarity. I collaborated with my peers utilizing Jira, Confluence, Teams, and GitLab. I was a part of the [Digital Main Street](https://digitalmainstreet.ca) and Mastercard's inagural class of [Small Business Cyber and Intelligence Fellowships](https://digitalmainstreet.ca/dms-mastercard-fellowship/). I was featured numerous times on the [social media](https://www.linkedin.com/feed/update/urn:li:activity:7089355806915133441?utm_source=share&utm_medium=member_desktop) and website.
 
@@ -146,3 +146,4 @@ https://github.com/Hameez10/Hameez10/blob/9ba81b3ae412a316363689244e49a2d69dd9b4
 -->
 [UnityLogo]: https://github.com/Hameez10/Hameez10/blob/main/images/UnityLogo.jpg
 [MastercardLogo]: https://github.com/Hameez10/Hameez10/blob/9ba81b3ae412a316363689244e49a2d69dd9b477/images/ma_symbol_opt_73_1x.png
+[MastercardLogoLarge]: https://github.com/Hameez10/Hameez10/blob/main/images/Mastercard%20Logo%20Large.webp
