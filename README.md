@@ -27,6 +27,8 @@ I am Hameez Iqbal, a **Co-op Computer Science** student at **Toronto Metropolita
 
 I am currently a Software Engineering Intern at Crewscope, where I work on Python backend development and AI integration to enhance a software platform aimed at improving worker productivity and retention in construction and industrial settings. My role involves designing and implementing backend services, building microservices-based enterprise applications, and integrating AI workflows using APIs. I also contribute to QA processes, automated testing pipelines, and integration with third-party services, as well as assisting with cloud deployment and DevOps tasks. This position allows me to tackle technical challenges, write sustainable code, and thrive in a dynamic startup environment.
 
+![alt text][UnityLogoLogo]
+
 During my time at Unity Health Toronto, I worked at St. Michael’s Hospital on a project focused on modernizing the healthcare system through the implementation of a new Electronic Patient Record (EPR) system. My responsibilities included implementing the system on various devices, testing, troubleshooting, and performing minor repairs. I was stationed in the Operating Room, where I provided direct support to nurses, anesthesiologists, surgeons, residents, fellows, clerks, and other staff as an expert on the new software. This high-pressure, fast-paced role involved assisting users with varying levels of technical expertise, ensuring smooth operations and minimal disruptions. Additionally, I contributed to end-user training sessions and collaborated on device setup and maintenance, further developing my technical, problem-solving, and communication skills in a critical healthcare environment.
 
 
@@ -142,4 +144,5 @@ Thank you for visiting! Feel free to explore my repositories and reach out for a
 Images
 https://github.com/Hameez10/Hameez10/blob/9ba81b3ae412a316363689244e49a2d69dd9b477/images/ma_symbol_opt_73_1x.png
 -->
+[UnityLogo]: https://github.com/Hameez10/Hameez10/blob/main/images/UnityLogo.jpg
 [MastercardLogo]: https://github.com/Hameez10/Hameez10/blob/9ba81b3ae412a316363689244e49a2d69dd9b477/images/ma_symbol_opt_73_1x.png
