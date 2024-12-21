@@ -42,7 +42,7 @@ I was a member of the Data Team for [MPP (Member of Provinical Parliament)](http
 
 🤔 I am currently exploring how computer science can be applied in the political landscape.
 
-👨🏾‍💻 I am open to do Co-op/Internship placements
+👨🏾‍💻 I am open to Co-op/Internship placements with terms ranging from 4 to 16 months. I am interested in areas including, but not limited to, Software Engineering (with a preference for backend), Product Management, and Project Management.
 
 ## Relevant Coursework📚 :
 ### Computer Science
