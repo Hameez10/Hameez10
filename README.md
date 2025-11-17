@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </p>
 
 
-I am Hameez Iqbal, a **Co-op Computer Science** student at **Toronto Metropolitan University**, pursuing a minor in **Cyber Studies** and a concentration in **Software Engineering**.
+I am Hameez Iqbal, a **Co-op Computer Science** student at **Toronto Metropolitan University**, pursuing a minor in **Cyber Studies** and in **Innovation**.
 
 🌱 I’m currently on a Co-op term
 
