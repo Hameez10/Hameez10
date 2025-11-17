@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 
 I am Hameez Iqbal, a **Co-op Computer Science** student at **Toronto Metropolitan University**, pursuing a minor in **Cyber Studies** and in **Innovation**.
 
-🌱 I’m currently on a Co-op term
+🌱 I’m currently focused on the intersection of AI, public-sector technology, and enterprise engineering, exploring how modern technical systems can improve government operations, service delivery, and large-scale organizational workflows.
 
-🤔 I am currently exploring how computer science can be applied in the political landscape.
+🚀 My recent work includes AI deployment automation, workflow orchestration, backend engineering, and AI-driven product development across government, healthcare, and startup environments.
 
-👨🏾‍💻 I am open to Co-op/Internship placements with terms ranging from 4 to 16 months. I am interested in areas including, but not limited to, Software Engineering (with a preference for backend), Product Management, and Project Management.
+👨🏾‍💻 I am actively seeking Product, Technical Program Management, and Operations roles, where I can combine engineering, AI systems knowledge, and cross-functional leadership to build tools that scale across complex organizations.
 
 ## Career Summary💻 :
 
