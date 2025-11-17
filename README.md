@@ -32,8 +32,10 @@ I am Hameez Iqbal, a **Co-op Computer Science** student at **Toronto Metropolita
 👨🏾‍💻 I am actively seeking Product, Technical Program Management, and Operations roles, where I can combine engineering, AI systems knowledge, and cross-functional leadership to build tools that scale across complex organizations.
 
 ## Career Summary💻 :
+🇨🇦 At the Government of Canada, I support the deployment, governance, and operational scaling of AI tools across multiple federal branches, combining engineering, product, and technical program management. I manage AI license infrastructure, automate reporting using Python and n8n, improve internal service workflows, and contribute to the design of enterprise AI deployment systems used across the department. My work includes building documentation, dashboards, multilingual (English and French) user workflows, and intake processes that ensure secure, compliant, and efficient adoption of enterprise AI tools within the public sector.
 
-I am currently a Software Engineering Intern at Crewscope, where I work on Python backend development and AI integration to enhance a software platform aimed at improving worker productivity and retention in construction and industrial settings. My role involves designing and implementing backend services, building microservices-based enterprise applications, and integrating AI workflows using APIs. I also contribute to QA processes, automated testing pipelines, and integration with third-party services, as well as assisting with cloud deployment and DevOps tasks. This position allows me to tackle technical challenges, write sustainable code, and thrive in a dynamic startup environment.
+![alt text][CrewscopeLogo]
+During my time at Crewscope, I worked as a Software Engineering Intern focused on building backend systems, AI automation pipelines, and cross-platform integrations to support industrial workforce management. I developed Python microservices, implemented Django–Bubble data migrations, integrated LLM-powered agents using OpenAI and Claude APIs, and engineered Twilio SMS communication flows via ngrok. In addition to backend development, I contributed to product roadmap planning, QA testing, and vertical market analysis, helping shape the evolution of Crewscope’s AI-augmented platform across construction, manufacturing, and retirement living sectors.
 
 ![alt text][UnityLogo]
 
@@ -45,12 +47,6 @@ During my time at Unity Health Toronto, I worked at St. Michael’s Hospital on 
 🔴🟠 I was a Software Engineer Intern at **[Mastercard](https://www.mastercard.ca/en-ca.html)** 's Cyber & Intelligence unit at [Ethoca](https://www.ethoca.com) during the summer of 2023 where I provided merchants and issuers collaboratively based solutions to combat fraud and reduce charge back. I used Java, Spring, Angular, and Azure working on both front-end and back-end technologies for the product Consumer Clarity. I collaborated with my peers utilizing Jira, Confluence, Teams, and GitLab. I was a part of the [Digital Main Street](https://digitalmainstreet.ca) and Mastercard's inagural class of [Small Business Cyber and Intelligence Fellowships](https://digitalmainstreet.ca/dms-mastercard-fellowship/). I was featured numerous times on the [social media](https://www.linkedin.com/feed/update/urn:li:activity:7089355806915133441?utm_source=share&utm_medium=member_desktop) and website.
 
 I was a member of the Data Team for [MPP (Member of Provinical Parliament)](https://www.ola.org/en/members/all/ted-hsu) [Ted Hsu](https://www.tedhsu.ca)'s bid to be the leader of the [Ontario Liberal Party](https://ontarioliberal.ca) in fall 2023.
-
-🌱 I’m currently on a Co-op term
-
-🤔 I am currently exploring how computer science can be applied in the political landscape.
-
-👨🏾‍💻 I am open to Co-op/Internship placements with terms ranging from 4 to 16 months. I am interested in areas including, but not limited to, Software Engineering (with a preference for backend), Product Management, and Project Management.
 
 ## Relevant Coursework📚 :
 ### Computer Science
