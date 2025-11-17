@@ -123,6 +123,8 @@ Technologies: Any.run, Wireshark, Snort, Hashcat, Virtual Machines, John the Rip
 
 • [Business Law](https://www.torontomu.ca/calendar/2024-2025/courses/law/LAW/122/)
 
+• [Zone Learning](https://www.torontomu.ca/zone-learning/initiatives/zon-100/#!tab-1748873143722-cps)
+
 
 ### Upcoming Courses
 
