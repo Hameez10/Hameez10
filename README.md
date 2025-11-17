@@ -151,3 +151,4 @@ https://github.com/Hameez10/Hameez10/blob/9ba81b3ae412a316363689244e49a2d69dd9b4
 [UnityLogo]: https://github.com/Hameez10/Hameez10/blob/main/images/UnityLogo.jpg
 [MastercardLogo]: https://github.com/Hameez10/Hameez10/blob/9ba81b3ae412a316363689244e49a2d69dd9b477/images/ma_symbol_opt_73_1x.png
 [MastercardLogoLarge]: https://github.com/Hameez10/Hameez10/blob/main/images/Mastercard%20Logo%20Large.webp
+[CrewscopeLogo]: https://github.com/Hameez10/Hameez10/blob/main/images/CrewscopeLogo.png
